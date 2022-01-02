@@ -1,3 +1,4 @@
+<center>
 ### 어서 오세요! 초보개발자 입니다. 👋
 
 <!--
@@ -25,3 +26,4 @@ Here are some ideas to get you started:
 ### Studying
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
+</center>
