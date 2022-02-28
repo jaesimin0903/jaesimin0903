@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ### Studying
 <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
-
+<a target="_blank"><img src="https://img.shields.io/badge/nodeJS-339933?style=flat-square&logo=nodeJS&logoColor=white"/></a>
