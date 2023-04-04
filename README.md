@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 <a target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HypherLedgerFabric-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/></a>
 
+### Contact
+
+<a href="https://jaesimin0903.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white&link=(https://jaesimin0903.tistory.com/)"/></a>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jaesimin0903&theme=default)](https://jaesimin0903.tistory.com/)
+
 ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaesimin0903)](https://solved.ac/jaesimin0903/)
 
