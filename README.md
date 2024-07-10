@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodejs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node&logoColor=white"/></a>
 
 ### Contact
 
