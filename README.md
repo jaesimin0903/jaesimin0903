@@ -1,39 +1,17 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jaemin's%20GitHub!👋&fontSize=60">
 
-<!--
-**jaesimin0903/jaesimin0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Studied 
-<a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-
-### Studying
-<a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/HypherLedgerFabric-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Typescript-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+<img src="https://img.shields.io/badge/React.js-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Next.js-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
 
 ### Contact
 
 <a href="https://jaesimin0903.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white&link=(https://jaesimin0903.tistory.com/)"/></a>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jaesimin0903&theme=default)](https://jaesimin0903.tistory.com/)
 
 ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaesimin0903)](https://solved.ac/jaesimin0903/)
