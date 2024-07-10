@@ -15,8 +15,8 @@
 
 ### 📃 Career
 ---
-<span>~ 2024.02 : Dongguk University CSE</span>
-<span>2024.07 ~ : SSAFY 12th</span>
+<div>~ 2024.02 : Dongguk University CSE</div>
+<div>2024.07 ~ : SSAFY 12th</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaesimin0903)](https://solved.ac/jaesimin0903/)
 
