@@ -15,8 +15,9 @@
 
 ### 📃 Career
 ---
-#### ~ 2024.02 : University CSE
-#### 2024.07 ~ : SSAFY 12th
+#### 2025.01 ~         : LK Brothers
+#### 2024.07 ~ 2024.12 : SSAFY 12th
+#### 2017.03 ~ 2024.02 : University CSE
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaesimin0903)](https://solved.ac/jaesimin0903/)
 
